@@ -1,0 +1,40 @@
+{
+    "pt": {
+        "welcome_message"	: "Oi, Escolha seu idioma, para trocar envie a palavra 'idioma' / Hola, escoge tu idioma, para cambiarlo envia la palabra 'idioma'",
+        "btn_pt"	: "Eu falo Português",
+        "btn_es" : "Yo hablo Español",
+        "msg_help"	: "Linguagem é um serviço gratuito e sem publicidade, é uma ferramenta para aprender inglês, por enquanto está em formato de quiz, mais pode ser muito mais, para nos ajudar caso você ache algum erro ou queira dar alguma sugestão, por favor, nos comunique através do nosso site: linguagem.co",
+        "msg_head" : "Vamos começar",
+        "msg_foot" : "qual é a tradução da palavra",
+        "msg_ok_answer" : "Beleza!",
+        "msg_ko_answer" : "Tente de novo!",
+        "msg_lang_modified" : "Idioma trocado ",
+        "msg_dont_understand" : "Não entendi",
+        "btn_linguagem" : "Site de linguagem.co",
+        "btn_comandos" : "Comandos",
+        "btn_quiz" : "Voltar ao quiz",
+        "btn_idioma" : "Trocar idioma",
+        "cheating_ok" : "OK , você já respondeu",
+        "cheating_ko" : ":( Você já respondeu",
+        "msg_points" : "Seus pontos são"
+    },
+    "es": {
+        "welcome_message"   : "Oi, Escolha seu idioma, para trocar envie a palavra 'idioma' / Hola, escoge tu idioma, para cambiarlo envía la palabra 'idioma'",
+        "btn_pt"    : "Eu falo Portugués",
+        "btn_es" : "Yo hablo Español",
+        "msg_help"  : "Si tú quieres hacer el quiz solo tienes que enviar la palabra 'quiz', mas info linguagem.co",
+        "msg_head" : "Vamos a comenzar",
+        "msg_foot" : "cuál es la traducción de la palabra",
+        "msg_ok_answer" : "Excelente!",
+        "msg_ko_answer" : "Intenta de nuevo!",
+        "msg_lang_modified" : "Idioma cambiado ",
+        "msg_dont_understand" : "No entiendo",
+        "btn_linguagem" : "Visitar linguagem.co",
+        "btn_comandos" : "Comandos",
+        "btn_quiz" : "Regresar al quiz",
+        "btn_idioma" : "Cambiar el idioma",
+        "cheating_ok" : "OK, pero ya respondiste esta pregunta,",
+        "cheating_ko" : ":( pero ya respondiste",
+        "msg_points" : "Sus puntos son"
+    }
+}
